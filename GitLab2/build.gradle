@@ -8,7 +8,7 @@ java {
 }
 
 repositories {
-    jcenter()
+     mavenCentral()
 }
 
 dependencies {
@@ -20,3 +20,11 @@ test {
     ignoreFailures = true 
     useJUnitPlatform()
     }
+    
+javadoc {
+   options.with {
+      source '8'
+      links 'https://docs.oracle.com/javase/8/docs/api/'
+   }
+   failOnError = false;
+}
