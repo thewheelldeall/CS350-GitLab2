@@ -2,5 +2,5 @@
 
 Joseph Cox
 
-* [Tests](./GitLab2/build/reports/tests/test/)
-* [JavaDoc](./GitLab2/build/docs/javadoc/)
+* [Tests](./build/reports/tests/test/)
+* [JavaDoc](./build/docs/javadoc/)
