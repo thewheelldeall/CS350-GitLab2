@@ -2,5 +2,5 @@
 
 Joseph Cox
 
-* [Tests](./reports/tests/test/)
-* [JavaDoc](./docs/javadoc/)
+* [Tests](./build/reports/tests/test/)
+* [JavaDoc](./build/docs/javadoc/)
